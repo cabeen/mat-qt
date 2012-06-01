@@ -1,4 +1,4 @@
 mat-qt
 ======
 
-A Quicktime based video reader for Matlab
+A Quicktime based video reader for Matlab.
